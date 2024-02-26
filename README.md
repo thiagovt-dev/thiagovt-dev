@@ -21,7 +21,6 @@
 ![Vite](https://img.shields.io/badge/-Vite-232323?style=flat&labelColor=646CFF&logo=vite&logoColor=ffe330)
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 ![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-232323?style=flat&labelColor=000000&logo=vue.js&logoColor=4FC08D)
 ![Angular.js](https://img.shields.io/badge/-Angular-232323?style=flat&logo=angular&logoColor=%23ffffff&labelColor=%23FF2D20&link=Angular)
 
 

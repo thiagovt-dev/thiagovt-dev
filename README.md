@@ -34,6 +34,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-232323?style=flat&logo=python&logoColor=green&labelColor=000000)
+![Docker](https://img.shields.io/badge/-Docker-232323?style=flat&labelColor=000000&logo=docker&logoColor=2496ED)
 
 <hr>
 

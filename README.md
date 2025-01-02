@@ -3,7 +3,7 @@
 
 
 🔭 I'm a full-stack developer and currently, I work with web development. I like programming and studying, and my goal is to create solutions to problems using my knowledge and keep learning other technologies.   
-🌱 I'm studying for a bachelor's degree in computer science and currently I'm working in ![Softtor](https://github.com/Softtor) as Back-end web developer .
+🌱 I'm studying for a bachelor's degree in computer science and currently I'm working as full-stack web developer .
 
 
 ### Here are some of my skills

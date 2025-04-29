@@ -38,6 +38,5 @@
 
 <hr>
 
-![thiagovt-dev's Stats](https://github-readme-stats.vercel.app/api?username=thiagovt-dev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&show_include_all_commits=true&show)
-![thiagovt-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovt-dev&theme=tokyonight&show_icons=true&hide_border=false&layout=donut)
-![thiagovt-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagovt-dev&theme=vue-dark&hide_border=true)
+![thiagovt-dev's Stats](https://github-readme-stats.vercel.app/api?username=thiagovt-dev&theme=merko&show_icons=true&hide_border=true&count_private=true)
+![thiagovt-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovt-dev&theme=merko&show_icons=true&hide_border=true&layout=compact)

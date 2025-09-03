@@ -1,42 +1,80 @@
+<h1 align="left">Hi there 👋, I'm Thiago Vasconcelos</h1>
 
-### Hi there 👋, I'm Thiago Vasconcelos
+###
 
+<p align="left">🔭 I'm a full-stack developer and currently, I work with web development. I like programming and studying, and my goal is to create solutions to problems using my knowledge and keep learning other technologies.   <br>🌱 I'm studying for a bachelor's degree in computer science and currently I'm working as full-stack web developer .</p>
 
-🔭 I'm a full-stack developer and currently, I work with web development. I like programming and studying, and my goal is to create solutions to problems using my knowledge and keep learning other technologies.   
-🌱 I'm studying for a bachelor's degree in computer science and currently I'm working as full-stack web developer .
+###
 
+<h2 align="left">Here are some of my skills</h2>
 
-### Here are some of my skills
+###
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="27" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="27" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="27" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="27" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="27" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="27" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="27" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="27" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="27" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="27" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="27" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="27" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="27" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="27" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="27" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="27" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="27" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="27" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="27" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="27" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="27" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="27" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="27" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="27" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="27" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="27" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="27" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="27" alt="redis logo"  />
+</div>
 
-**In the front-end**
+###
 
-![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-232323?style=flat&labelColor=06B6D4&logo=tailwindcss&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
-![Vite](https://img.shields.io/badge/-Vite-232323?style=flat&labelColor=646CFF&logo=vite&logoColor=ffe330)
-![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
-![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
-![Angular.js](https://img.shields.io/badge/-Angular-232323?style=flat&logo=angular&logoColor=%23ffffff&labelColor=%23FF2D20&link=Angular)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagovt-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagovt-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=thiagovt-dev&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app?username=thiagovt-dev&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
 
-
-
-**In the back-end**
-
-![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
-![Java](https://img.shields.io/badge/-Java-232323?style=flat&logo=openjdk&logoColor=%230055ff&labelColor=%23fefefe)
-![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
-![Sequelize](https://img.shields.io/badge/-Sequelize-232323?style=flat&labelColor=000000&logo=sequelize&logoColor=52B0E7)
-![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-232323?style=flat&logo=python&logoColor=green&labelColor=000000)
-![Docker](https://img.shields.io/badge/-Docker-232323?style=flat&labelColor=000000&logo=docker&logoColor=2496ED)
-
-<hr>
-
-![thiagovt-dev's Stats](https://github-readme-stats.vercel.app/api?username=thiagovt-dev&theme=merko&show_icons=true&hide_border=true&count_private=true)
-![thiagovt-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovt-dev&theme=merko&show_icons=true&hide_border=true&layout=compact)
+###
